@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192" width="192" height="192">
+  <rect width="192" height="192" rx="24" fill="#09090B"/>
+  <rect x="6" y="6" width="180" height="180" rx="18" fill="#121215" stroke="#27272A" stroke-width="2"/>
+  <text x="80" y="120" font-family="JetBrains Mono, monospace" font-size="78" font-weight="900" fill="#FAFAFA" text-anchor="middle">K</text>
+  <text x="130" y="120" font-family="JetBrains Mono, monospace" font-size="74" font-weight="300" fill="#10B981" text-anchor="middle">//</text>
+  <circle cx="156" cy="42" r="5" fill="#10B981"/>
+</svg>
